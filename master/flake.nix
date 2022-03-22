@@ -9,7 +9,7 @@
   
   inputs.src-result-master.flake = false;
   inputs.src-result-master.owner = "arnetheduck";
-  inputs.src-result-master.ref   = "refs/heads/master";
+  inputs.src-result-master.ref   = "master";
   inputs.src-result-master.repo  = "nim-result";
   inputs.src-result-master.type  = "github";
   
